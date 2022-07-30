@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf-icons.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="B00000" x="20" y="20" width="141" height="80"/>
+	<SubTexture name="B10000" x="181" y="20" width="141" height="94"/>
+	<SubTexture name="B10001" x="342" y="20" width="141" height="94"/>
+	<SubTexture name="B10002" x="503" y="20" width="141" height="94"/>
+	<SubTexture name="B10003" x="664" y="20" width="141" height="94"/>
+	<SubTexture name="B10004" x="825" y="20" width="141" height="94"/>
+	<SubTexture name="B10005" x="20" y="134" width="141" height="94"/>
+	<SubTexture name="B10006" x="181" y="134" width="141" height="94"/>
+	<SubTexture name="B10007" x="342" y="134" width="141" height="94"/>
+	<SubTexture name="B10008" x="503" y="134" width="141" height="94"/>
+	<SubTexture name="B10009" x="664" y="134" width="141" height="94"/>
+	<SubTexture name="B10010" x="825" y="134" width="141" height="94"/>
+	<SubTexture name="B10011" x="20" y="248" width="141" height="94"/>
+	<SubTexture name="B10012" x="181" y="248" width="141" height="94"/>
+	<SubTexture name="B10013" x="664" y="20" width="141" height="94"/>
+</TextureAtlas>
