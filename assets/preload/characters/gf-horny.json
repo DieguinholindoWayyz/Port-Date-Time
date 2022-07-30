@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				24
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "CUM",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				27
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GF_UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "GirlfriendBop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-57,
+				-25
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "GF_DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				-21
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GF_RIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GIRLFRIENDSEX_ASSETS",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		159,
+		0,
+		74
+	],
+	"camera_position": [
+		-110,
+		80
+	],
+	"sing_duration": 7.5,
+	"scale": 0.9
+}

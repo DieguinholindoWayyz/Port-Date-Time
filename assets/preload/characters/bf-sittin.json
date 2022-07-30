@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				9,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF_DOWN"
+		},
+		{
+			"offsets": [
+				23,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF_LEFT"
+		},
+		{
+			"offsets": [
+				8,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF_RIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BoyfriendBop"
+		},
+		{
+			"offsets": [
+				8,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF_UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				9
+			],
+			"anim": "Confused",
+			"fps": 24,
+			"name": "Confused",
+			"indices": []
+		},
+		{
+			"offsets": [
+				79,
+				146
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "B2F_LEFT_miss"
+		},
+		{
+			"offsets": [
+				6,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "B2F_DOWN_miss"
+		},
+		{
+			"offsets": [
+				97,
+				141
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "B2F_RIGHT_miss"
+		},
+		{
+			"offsets": [
+				2,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "BFGoesHornyMode",
+			"indices": [],
+			"name": "Pog"
+		},
+		{
+			"offsets": [
+				6,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "B2F_UP_miss"
+		},
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "WhatNoSex",
+			"indices": [],
+			"name": "miss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BOYFRIEND_ASSETS",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-20,
+		70
+	],
+	"sing_duration": 7.5,
+	"scale": 0.9
+}

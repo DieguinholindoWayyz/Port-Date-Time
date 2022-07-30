@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				11
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "GF_LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				28
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GF_UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-2,
+				34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GF_RIGHT"
+		},
+		{
+			"offsets": [
+				-1,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GF_DOWN"
+		},
+		{
+			"offsets": [
+				0,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "GirlfriendBop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GIRLFRIEND_ANGRY",
+	"position": [
+		0,
+		-10
+	],
+	"healthicon": "dad-icons",
+	"flip_x": false,
+	"healthbar_colors": [
+		172,
+		100,
+		204
+	],
+	"camera_position": [
+		-110,
+		80
+	],
+	"sing_duration": 7.5,
+	"scale": 1
+}
