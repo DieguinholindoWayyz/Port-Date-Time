@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "heart2",
+	"idle_anim": "menu_bf",
+	"position": [
+		21,
+		-10
+	],
+	"scale": 0.7,
+	"image": "mbf",
+	"flipX": false
+}

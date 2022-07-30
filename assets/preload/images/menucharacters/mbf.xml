@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mbf.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="menu_bf0000" x="20" y="20" width="471" height="405"/>
+	<SubTexture name="menu_bf0001" x="20" y="20" width="471" height="405"/>
+	<SubTexture name="menu_bf0002" x="511" y="20" width="471" height="405"/>
+	<SubTexture name="menu_bf0003" x="511" y="20" width="471" height="405"/>
+	<SubTexture name="menu_bf0004" x="1002" y="20" width="471" height="405"/>
+	<SubTexture name="menu_bf0005" x="1002" y="20" width="471" height="405"/>
+	<SubTexture name="menu_bf0006" x="1493" y="20" width="471" height="405"/>
+	<SubTexture name="menu_bf0007" x="1493" y="20" width="471" height="405"/>
+	<SubTexture name="menu_bf0008" x="20" y="445" width="471" height="405"/>
+	<SubTexture name="menu_bf0009" x="511" y="445" width="471" height="405"/>
+	<SubTexture name="menu_bf0010" x="511" y="445" width="471" height="405"/>
+	<SubTexture name="menu_bf0011" x="511" y="445" width="471" height="405"/>
+	<SubTexture name="menu_bf0012" x="511" y="445" width="471" height="405"/>
+	<SubTexture name="menu_bf0013" x="511" y="445" width="471" height="405"/>
+</TextureAtlas>

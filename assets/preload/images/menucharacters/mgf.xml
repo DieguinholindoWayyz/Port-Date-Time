@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mgf.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="menu_gf0000" x="20" y="20" width="514" height="564"/>
+	<SubTexture name="menu_gf0001" x="20" y="20" width="514" height="564"/>
+	<SubTexture name="menu_gf0002" x="554" y="20" width="514" height="564"/>
+	<SubTexture name="menu_gf0003" x="554" y="20" width="514" height="564"/>
+	<SubTexture name="menu_gf0004" x="1088" y="20" width="514" height="564"/>
+	<SubTexture name="menu_gf0005" x="1088" y="20" width="514" height="564"/>
+	<SubTexture name="menu_gf0006" x="1622" y="20" width="514" height="564"/>
+	<SubTexture name="menu_gf0007" x="1622" y="20" width="514" height="564"/>
+	<SubTexture name="menu_gf0008" x="2156" y="20" width="514" height="564"/>
+	<SubTexture name="menu_gf0009" x="2156" y="20" width="514" height="564"/>
+	<SubTexture name="menu_gf0010" x="2156" y="20" width="514" height="564"/>
+	<SubTexture name="menu_gf0011" x="2156" y="20" width="514" height="564"/>
+	<SubTexture name="menu_gf0012" x="2156" y="20" width="514" height="564"/>
+	<SubTexture name="menu_gf0013" x="2156" y="20" width="514" height="564"/>
+	<SubTexture name="menu_gf0014" x="2156" y="20" width="514" height="564"/>
+	<SubTexture name="menu_gf0015" x="2690" y="20" width="514" height="564"/>
+	<SubTexture name="menu_gf0016" x="2690" y="20" width="514" height="564"/>
+	<SubTexture name="menu_gf0017" x="3224" y="20" width="514" height="564"/>
+	<SubTexture name="menu_gf0018" x="3224" y="20" width="514" height="564"/>
+	<SubTexture name="menu_gf0019" x="20" y="604" width="514" height="564"/>
+	<SubTexture name="menu_gf0020" x="20" y="604" width="514" height="564"/>
+	<SubTexture name="menu_gf0021" x="554" y="604" width="514" height="564"/>
+	<SubTexture name="menu_gf0022" x="554" y="604" width="514" height="564"/>
+	<SubTexture name="menu_gf0023" x="1088" y="604" width="514" height="564"/>
+	<SubTexture name="menu_gf0024" x="1088" y="604" width="514" height="564"/>
+	<SubTexture name="menu_gf0025" x="1622" y="604" width="514" height="564"/>
+	<SubTexture name="menu_gf0026" x="1622" y="604" width="514" height="564"/>
+	<SubTexture name="menu_gf0027" x="1622" y="604" width="514" height="564"/>
+	<SubTexture name="menu_gf0028" x="1622" y="604" width="514" height="564"/>
+	<SubTexture name="menu_gf0029" x="1622" y="604" width="514" height="564"/>
+</TextureAtlas>
