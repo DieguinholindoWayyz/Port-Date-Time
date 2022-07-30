@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boom2.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Boom20000" x="20" y="20" width="521" height="394"/>
+	<SubTexture name="Boom20001" x="561" y="20" width="521" height="394"/>
+	<SubTexture name="Boom20002" x="1102" y="20" width="521" height="394"/>
+	<SubTexture name="Boom20003" x="20" y="434" width="521" height="394"/>
+	<SubTexture name="Boom20004" x="20" y="434" width="521" height="394"/>
+	<SubTexture name="Boom20005" x="20" y="434" width="521" height="394"/>
+	<SubTexture name="Boom20006" x="20" y="434" width="521" height="394"/>
+	<SubTexture name="Boom20007" x="20" y="434" width="521" height="394"/>
+	<SubTexture name="Boom20008" x="20" y="434" width="521" height="394"/>
+	<SubTexture name="Boom20009" x="20" y="434" width="521" height="394"/>
+	<SubTexture name="Boom20010" x="20" y="434" width="521" height="394"/>
+	<SubTexture name="Boom20011" x="20" y="434" width="521" height="394"/>
+	<SubTexture name="Boom20012" x="20" y="434" width="521" height="394"/>
+	<SubTexture name="Boom20013" x="20" y="434" width="521" height="394"/>
+	<SubTexture name="Boom20014" x="20" y="434" width="521" height="394"/>
+</TextureAtlas>

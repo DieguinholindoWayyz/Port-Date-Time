@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="heart1.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Hears0000" x="20" y="20" width="800" height="493"/>
+	<SubTexture name="Hears0001" x="840" y="20" width="800" height="493"/>
+	<SubTexture name="Hears0002" x="1660" y="20" width="800" height="493"/>
+	<SubTexture name="Hears0003" x="2480" y="20" width="800" height="493"/>
+	<SubTexture name="Hears0004" x="20" y="533" width="800" height="493"/>
+	<SubTexture name="Hears0005" x="840" y="533" width="800" height="493"/>
+	<SubTexture name="Hears0006" x="1660" y="533" width="800" height="493"/>
+	<SubTexture name="Hears0007" x="2480" y="533" width="800" height="493"/>
+	<SubTexture name="Hears0008" x="20" y="1046" width="800" height="493"/>
+	<SubTexture name="Hears0009" x="840" y="1046" width="800" height="493"/>
+	<SubTexture name="Hears0010" x="1660" y="1046" width="800" height="493"/>
+	<SubTexture name="Hears0011" x="1660" y="1046" width="800" height="493"/>
+	<SubTexture name="Hears0012" x="1660" y="1046" width="800" height="493"/>
+	<SubTexture name="Hears0013" x="1660" y="1046" width="800" height="493"/>
+</TextureAtlas>

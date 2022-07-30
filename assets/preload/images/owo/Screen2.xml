@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Screen2.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Screen_Export0000" x="20" y="20" width="533" height="257"/>
+	<SubTexture name="Screen_Export0001" x="20" y="20" width="533" height="257"/>
+	<SubTexture name="Screen_Export0002" x="573" y="20" width="533" height="257"/>
+	<SubTexture name="Screen_Export0003" x="573" y="20" width="533" height="257"/>
+	<SubTexture name="Screen_Export0004" x="1126" y="20" width="533" height="257"/>
+	<SubTexture name="Screen_Export0005" x="1126" y="20" width="533" height="257"/>
+	<SubTexture name="Screen_Export0006" x="20" y="297" width="533" height="257"/>
+	<SubTexture name="Screen_Export0007" x="20" y="297" width="533" height="257"/>
+	<SubTexture name="Screen_Export0008" x="573" y="297" width="533" height="257"/>
+	<SubTexture name="Screen_Export0009" x="573" y="297" width="533" height="257"/>
+	<SubTexture name="Screen_Export0010" x="573" y="297" width="533" height="257"/>
+	<SubTexture name="Screen_Export0011" x="573" y="297" width="533" height="257"/>
+	<SubTexture name="Screen_Export0012" x="573" y="297" width="533" height="257"/>
+	<SubTexture name="Screen_Export0013" x="573" y="297" width="533" height="257"/>
+</TextureAtlas>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="store2.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Store20000" x="20" y="20" width="791" height="618"/>
+	<SubTexture name="Store20001" x="20" y="20" width="791" height="618"/>
+	<SubTexture name="Store20002" x="831" y="20" width="791" height="618"/>
+	<SubTexture name="Store20003" x="20" y="658" width="791" height="618"/>
+	<SubTexture name="Store20004" x="20" y="658" width="791" height="618"/>
+	<SubTexture name="Store20005" x="831" y="658" width="791" height="618"/>
+	<SubTexture name="Store20006" x="20" y="1296" width="791" height="618"/>
+	<SubTexture name="Store20007" x="20" y="1296" width="791" height="618"/>
+	<SubTexture name="Store20008" x="831" y="1296" width="791" height="618"/>
+</TextureAtlas>

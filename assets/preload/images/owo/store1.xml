@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="store1.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Store10000" x="20" y="20" width="612" height="526"/>
+	<SubTexture name="Store10001" x="652" y="20" width="612" height="526"/>
+	<SubTexture name="Store10002" x="1284" y="20" width="612" height="526"/>
+	<SubTexture name="Store10003" x="20" y="566" width="612" height="526"/>
+	<SubTexture name="Store10004" x="652" y="566" width="612" height="526"/>
+	<SubTexture name="Store10005" x="1284" y="566" width="612" height="526"/>
+	<SubTexture name="Store10006" x="20" y="1112" width="612" height="526"/>
+	<SubTexture name="Store10007" x="1284" y="566" width="612" height="526"/>
+	<SubTexture name="Store10008" x="652" y="1112" width="612" height="526"/>
+	<SubTexture name="Store10009" x="20" y="566" width="612" height="526"/>
+	<SubTexture name="Store10010" x="1284" y="1112" width="612" height="526"/>
+	<SubTexture name="Store10011" x="1284" y="1112" width="612" height="526"/>
+	<SubTexture name="Store10012" x="1284" y="1112" width="612" height="526"/>
+	<SubTexture name="Store10013" x="1284" y="1112" width="612" height="526"/>
+	<SubTexture name="Store10014" x="1284" y="1112" width="612" height="526"/>
+	<SubTexture name="Store10015" x="1284" y="1112" width="612" height="526"/>
+</TextureAtlas>
