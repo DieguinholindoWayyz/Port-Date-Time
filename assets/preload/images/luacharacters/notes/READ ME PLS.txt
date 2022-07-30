@@ -1,0 +1,8 @@
+Put your Note asset in here
+
+but make sure the purple note end hold
+is named
+
+'pruple end hold'
+
+cus there's typo in source code which is pretty stupid
