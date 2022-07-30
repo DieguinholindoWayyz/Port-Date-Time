@@ -1,0 +1,31 @@
+{
+	"storyName": "love time",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "blac",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		164,
+		1,
+		77
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"dearest-double-date",
+			"gf",
+			[
+				164,
+				1,
+				77
+			]
+		]
+	],
+	"weekCharacters": [
+		"mgf",
+		"heart",
+		"mbf"
+	],
+	"weekName": "Custom Week"
+}
